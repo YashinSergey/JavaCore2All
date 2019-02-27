@@ -2,7 +2,9 @@ package ru.geekbrains.classes.lesson4.homeWork;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.KeyAdapter;
+import java.awt.event.KeyEvent;
 
 
 class Window extends JFrame {

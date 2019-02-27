@@ -1,15 +1,18 @@
-package ru.geekbrains.lesson7;
+package ru.geekbrains.classes.lesson7;
 
-import ru.geekbrains.lesson7.auth.AuthService;
-import ru.geekbrains.lesson7.auth.AuthServiceImpl;
 
+
+import ru.geekbrains.classes.lesson7.auth.AuthService;
+import ru.geekbrains.classes.lesson7.auth.AuthServiceImpl;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
-import java.util.*;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 

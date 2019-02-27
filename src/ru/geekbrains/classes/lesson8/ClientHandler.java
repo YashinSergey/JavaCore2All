@@ -1,4 +1,4 @@
-package ru.geekbrains.lesson8;
+package ru.geekbrains.classes.lesson8;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

@@ -1,4 +1,4 @@
-package ru.geekbrains.lesson8.swing;
+package ru.geekbrains.classes.lesson8.swing;
 
 import javax.swing.*;
 import javax.swing.border.LineBorder;

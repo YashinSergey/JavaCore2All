@@ -1,6 +1,5 @@
-package ru.geekbrains.lesson8.swing;
+package ru.geekbrains.classes.lesson8.swing;
 
-import javax.swing.*;
 import java.io.Closeable;
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

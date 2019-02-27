@@ -1,6 +1,4 @@
-package ru.geekbrains.lesson7.swing;
-
-import ru.geekbrains.lesson7.ClientHandler;
+package ru.geekbrains.classes.lesson7.swing;
 
 import javax.swing.*;
 import java.io.Closeable;

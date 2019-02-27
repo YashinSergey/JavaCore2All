@@ -1,16 +1,11 @@
-package ru.geekbrains.lesson7;
+package ru.geekbrains.classes.lesson7;
 
 import ru.geekbrains.lesson7.auth.AuthServiceImpl;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
-import java.io.EOFException;
 import java.io.IOException;
 import java.net.Socket;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Iterator;
-import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 

@@ -1,9 +1,8 @@
-package ru.geekbrains.lesson8.swing;
+package ru.geekbrains.classes.lesson8.swing;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-import java.util.TimerTask;
 
 public class MainWindow extends JFrame implements MessageSender {
 

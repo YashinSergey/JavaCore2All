@@ -1,6 +1,5 @@
 package ru.geekbrains.classes.lesson3;
 
-import java.sql.SQLOutput;
 import java.util.*;
 
 public class SetExamples {

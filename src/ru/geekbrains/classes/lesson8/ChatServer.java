@@ -1,7 +1,8 @@
-package ru.geekbrains.lesson8;
+package ru.geekbrains.classes.lesson8;
 
-import ru.geekbrains.lesson8.auth.AuthService;
-import ru.geekbrains.lesson8.auth.AuthServiceImpl;
+
+import ru.geekbrains.classes.lesson8.auth.AuthService;
+import ru.geekbrains.classes.lesson8.auth.AuthServiceImpl;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

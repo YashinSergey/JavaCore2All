@@ -1,4 +1,4 @@
-package ru.geekbrains.lesson8.swing;
+package ru.geekbrains.classes.lesson8.swing;
 
 /**
  * Интерфейс для взаимодействия класса сети {@link Network}

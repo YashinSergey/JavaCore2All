@@ -1,6 +1,9 @@
 package ru.geekbrains.classes.lesson5;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
 import static java.lang.Thread.sleep;
 
 public class ShearedVelueExemple {

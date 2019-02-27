@@ -3,8 +3,6 @@ package ru.geekbrains.classes.lesson5;
 import java.util.Deque;
 import java.util.LinkedList;
 
-import static java.lang.Thread.sleep;
-
 public class WaitNotifyExample {
 
     Deque<String> deque = new LinkedList<>();

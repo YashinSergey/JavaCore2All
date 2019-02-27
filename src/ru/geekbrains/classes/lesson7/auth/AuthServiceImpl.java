@@ -1,4 +1,4 @@
-package ru.geekbrains.lesson7.auth;
+package ru.geekbrains.classes.lesson7.auth;
 
 import java.util.HashMap;
 import java.util.Map;

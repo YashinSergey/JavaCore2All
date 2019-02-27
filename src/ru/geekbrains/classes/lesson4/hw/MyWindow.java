@@ -2,9 +2,6 @@ package ru.geekbrains.classes.lesson4.hw;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.KeyAdapter;
-import java.awt.event.KeyEvent;
 
 class Window extends JFrame {
     private JFrame frame;

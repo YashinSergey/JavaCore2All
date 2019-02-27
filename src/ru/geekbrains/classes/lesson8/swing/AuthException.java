@@ -1,4 +1,4 @@
-package ru.geekbrains.lesson8.swing;
+package ru.geekbrains.classes.lesson8.swing;
 
 public class AuthException extends RuntimeException {
     public AuthException(String s) {
